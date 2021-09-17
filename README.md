@@ -1,12 +1,16 @@
 
-# Mr. Clean's Discord Blacklist
+# Mr. Clean's Data
 
-Automatically updated blacklist.
+Data used by Mr. Clean.
 
-> **DISCLAIMER**: This repository is updated automatically with threats found by Mr. Clean and **can be manipulated to include arbitrary content!**
 
-- `domains.txt`
-  
-Newline seperated list of domains.
+- `blacklisted_domains.txt`
 
 Most of them (if not all) are steam phishing sites.
+
+> This file is updated automatically by Mr. Clean once he discoveres new domains.
+
+- `whitelisted_domains.txt`
+
+Domain whitelist. Internally used by Mr. Clean.
+
