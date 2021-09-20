@@ -16,6 +16,7 @@ discord-app.info
 discord-claim.com
 discord-click.shop
 discord-game.com
+discord-give.com
 discord-glft.ru.com
 discord-nitro.click
 discord-nitro.link
