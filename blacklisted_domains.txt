@@ -13,6 +13,7 @@ discorcl.shop
 discord-airdrop.com
 discord-airdrop.fun
 discord-app.info
+discord-app.me
 discord-app.net
 discord-claim.com
 discord-click.shop
