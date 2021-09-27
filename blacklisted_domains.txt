@@ -10,6 +10,7 @@ discorcl.click
 discorcl.gift
 discorcl.link
 discorcl.shop
+discorclapp.com
 discord-airdrop.com
 discord-airdrop.fun
 discord-app.info
