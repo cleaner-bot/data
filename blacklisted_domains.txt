@@ -18,6 +18,7 @@ discord-app.me
 discord-app.net
 discord-claim.com
 discord-click.shop
+discord-cpp.com
 discord-game.com
 discord-give.com
 discord-give.org
