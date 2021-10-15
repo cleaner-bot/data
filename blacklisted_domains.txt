@@ -23,6 +23,7 @@ discord-cpp.com
 discord-game.com
 discord-gifts.ru.com
 discord-give.com
+discord-give.net
 discord-give.org
 discord-glft.ru.com
 discord-nitro.click
