@@ -18,6 +18,7 @@ discord-airdrop.fun
 discord-app.info
 discord-app.me
 discord-app.net
+discord-appnitro.com
 discord-claim.com
 discord-click.shop
 discord-cpp.com
