@@ -53,6 +53,7 @@ dliscord.com
 dlscord-app.com
 dlscord-nitro.click
 dlscord-nitro.link
+dlscord-promo.xyz
 dlscord.org
 dlscord.press
 dlscord.shop
