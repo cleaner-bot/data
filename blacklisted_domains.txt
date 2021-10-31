@@ -13,6 +13,7 @@ discorcl.gift
 discorcl.link
 discorcl.shop
 discorclapp.com
+discorclgift.com
 discord-airdrop.com
 discord-airdrop.fun
 discord-app.info
