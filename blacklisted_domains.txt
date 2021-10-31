@@ -55,6 +55,7 @@ dlscord-app.com
 dlscord-gifts.xyz
 dlscord-nitro.click
 dlscord-nitro.link
+dlscord-nitro.space
 dlscord-promo.xyz
 dlscord.org
 dlscord.press
